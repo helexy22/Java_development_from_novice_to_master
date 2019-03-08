@@ -5,6 +5,6 @@
 
 每个chapter表示章节
 
-- code.py: 代码
+- code.java: 代码
 - date/: 数据文件
 - tmp/: 生成数据文件
